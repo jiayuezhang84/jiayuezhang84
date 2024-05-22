@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josie Zhang</h1>
 <h3 align="center">Coding Today, Pioneering Tomorrow</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiayuezhang84" alt="jiayuezhang84" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning, RAG, Transformer...**
 
 - 📫 How to reach me **josiezhang84@gmail.com**
