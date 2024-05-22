@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **josiezhang84@gmail.com**
 
-- ⚡ Fun fact **CPA( i can help with your taxes 😉**
+- ⚡ Fun fact **I am a CPA( if you cannot find anything helpful here, i can help with your taxes 😉)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
